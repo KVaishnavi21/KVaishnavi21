@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on : Data analysis and visualization projects, especially those using Python and Power BI.
 - 🤔 I’m looking for help with     : Expanding my knowledge in Python and its applications in business analytics.
 - 💬 Ask me about                  : Data analysis, Power BI, Python, SQL, and how to turn data into actionable insights.
-- 📫 How to reach me               : kokardevaishnavi@gmail.com / 
+- 📫 How to reach me               : kokardevaishnavi@gmail.com / www.linkedin.com/in/vaishnavi-kokarde-b2b596315
 - 😄 Pronouns                      : She/Her
 -->
